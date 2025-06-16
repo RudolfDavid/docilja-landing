@@ -20,10 +20,10 @@ export const getFooterDetails = (t: typeof translations.sl) => ({
     telephone: t.footer.telephone,
     socials: {
         // github: 'https://github.com',
-        x: 'https://twitter.com/x',
+        //x: 'https://twitter.com/x',
         facebook: 'https://facebook.com',
         // youtube: 'https://youtube.com',
-        linkedin: 'https://www.linkedin.com',
+        //linkedin: 'https://www.linkedin.com',
         // threads: 'https://www.threads.net',
         instagram: 'https://www.instagram.com',
     }
